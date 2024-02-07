@@ -7,7 +7,7 @@ Eche:
 
 Tingru:
 
-Nick:
+Nick: X
 
 Nobuhiro:
 
