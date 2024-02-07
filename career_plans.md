@@ -9,6 +9,7 @@ graph LR
           Cloud[Big Cloud]
           Containers
           APIs 
+          Niche[Niche that interests you]
         end
 
         subgraph Network[4. Network]
