@@ -1,4 +1,12 @@
 # 5-year career plans
+This document:
+
+a) outlines [the process](#the-process) for creating a self-directed career
+
+b) describes [the first step](#the-first-step) to take
+
+c) has a section for each person's [career plan](#current-plan)
+
 ## The process
 To create opportunities and self-drive a meaningful career in tech, iterate:
 ```mermaid
@@ -41,10 +49,10 @@ graph LR
 
 ## The first step
 Brainstorm your current understanding of your Interests, Passions and goals.
-Share with the group. 
+Share with Paul and the group. 
 The more we know about each other, the more we can help each other.
 
-## Our current self-understandings and career goals
+## Current plan
 _Note: If you like how I formatted my information, I have documented two utilities to help you [automate the formatting](automation.md). You are very welcome to use either or neither approach._
 
 ### Daniel
