@@ -5,7 +5,7 @@ a) outlines [the process](#the-process) for creating a self-directed career
 
 b) describes [the first step](#the-first-step) to take
 
-c) has a section for each person's [career plan](#current-plan)
+c) has a section for each person's [career plan](#career-plans)
 
 ## The process
 To create opportunities and self-drive a meaningful career in tech, iterate:
@@ -52,7 +52,7 @@ Brainstorm your current understanding of your Interests, Passions and goals.
 Share with Paul and the group. 
 The more we know about each other, the more we can help each other.
 
-## Current plan
+## Career plans
 _Note: If you like how I formatted my information, I have documented two utilities to help you [automate the formatting](automation.md). You are very welcome to use either or neither approach._
 
 ### Daniel
