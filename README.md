@@ -16,5 +16,5 @@ Nobuhiro:
 
 Warren: X
 
-Yichen:
+Yichen: X
 
