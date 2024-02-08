@@ -2,9 +2,9 @@
 ## Directory
 | File Name            | Summary                 |
 |----------------------|-------------------------|
-| career_plans.md      | Contains general career strategy and concrete career plans.   |
-| automation.md        | Contains utilities for formatting your career plan information.   |
-| diagrams_as_code.md  | Contains diagram-as-code assets.  |
+| [career_plans](career_plans.md)      | Contains general career strategy and concrete career plans.   |
+| [automation](automation.md)        | Contains utilities for formatting your career plan information.   |
+| [diagrams_as_code](diagrams_as_codes.md)  | Contains diagram-as-code assets.  |
 
 ## Access Check
 **Test that all mentees can edit the repository.**
