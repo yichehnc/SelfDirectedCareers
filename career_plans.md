@@ -9,43 +9,7 @@ c) has a section for each person's [career plan](#career-plans)
 
 ## The process
 To create opportunities and self-drive a meaningful career in tech, iterate:
-```mermaid
-graph LR
-    subgraph learn[Experiential Learning]
-
-        subgraph Experience[3. Get hands on]
-          Cloud[Big Cloud]
-          Containers
-          APIs 
-          Niche[Niche that interests you]
-        end
-
-        subgraph Network[4. Network]
-          Mentors
-          Meetups
-        end
-    end
-
-    subgraph brainstorm[Reflect]
-
-        subgraph Identify[1. Identify]
-          Interests
-          Passions
-        end
-
-        subgraph Goals[2. Set goals]
-          Quarterly
-          Yearly
-        end
-    end
-
-
-
-    Identify --> Goals
-    Experience --> Network
-    learn --> brainstorm
-    brainstorm --> learn
-```
+![image](https://github.com/WarrenTheRabbit/SelfDirectedCareers/assets/37808734/381259c6-24fa-4372-b6ee-9330c27b194b)
 
 ## The first step
 Brainstorm your current understanding of your Interests, Passions and goals.
