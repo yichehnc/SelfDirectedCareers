@@ -15,7 +15,7 @@ Or send me your Git ID to become a collaborator.
 
 ![image](https://github.com/WarrenTheRabbit/SelfDirectedCareers/assets/37808734/c68a6cb4-f5cc-4277-989e-a3ac22f88f6c)
 
-Daniel:
+Daniel: X
 
 Eche:
 
