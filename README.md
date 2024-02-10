@@ -23,7 +23,7 @@ Tingru:
 
 Nick: X
 
-Nobuhiro:
+Nobuhiro: X
 
 Warren: X
 
