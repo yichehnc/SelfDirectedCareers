@@ -19,7 +19,7 @@ Daniel: X
 
 Eche: X
 
-Tingru:
+Tingru: X
 
 Nick: X
 
