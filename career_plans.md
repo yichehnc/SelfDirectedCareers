@@ -27,6 +27,15 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 
 ### Nick
 
+| Passions                             | Interests              | 3 Months                      | 6 Months                              | 1 Year                          | 2 Years                             | 5 Years                  |
+|:-------------------------------------|:-----------------------|:------------------------------|:--------------------------------------|:--------------------------------|:-----------------------------------|:-------------------------|
+| Solving everyday problems            | Accessibility          | Master Python & SQL (Holberton) | Master Javascript, React (Holberton)  | Gained AWS certificate(s)    | Revaluate if there is any value left at current workplace | Be in a managerial role |
+| Bring values to people via software  | Responsive Web Design  | Master Oracle PL/SQL (for work) | Graduate from Holberton            | Explore AngularJS (for work) | Gained more AWS certificate(s)  | Give back to community by becoming a mentor  |
+| Networking with like-minded people   | Cloud (AWS/Azure)      | Learn Oracle APEX (for work) | Build a capstone project (Holberton) | Learn TypeScript (build a project) |  Drop junior title to become mid-level dev  |  Keep up with the latest tech trend  |
+| Mentoring career changers            | Security               | Learn Java (for work)           | Finalise and deploy my portfolio website  |  Contribute to open-source  |  Work in a health-tech company if opportunity arises  |                           |
+| Reading books / join book club       | Generative AI          |                               |                                      |                                  |   Explore .NET & C#                |                           |
+| Wrting blogs                         |                        |                               |                                       |                                 |                                    |                           |
+
 ### Nobuhiro
 
 ### Paul Silver
