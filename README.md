@@ -17,7 +17,7 @@ Or send me your Git ID to become a collaborator.
 
 Daniel: X
 
-Eche:
+Eche: X
 
 Tingru:
 
