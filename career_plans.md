@@ -77,5 +77,14 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 
 ### Yichen
 
+| Passions                       | Interests                      | 3 Months                                            | 6 Months                                         | 1 Year                                       | 2 Years                                     | 5 Years                                        |
+|--------------------------------|--------------------------------|-----------------------------------------------------|--------------------------------------------------|----------------------------------------------|---------------------------------------------|------------------------------------------------|
+| Solving problems creatively    | Web Development                | Proficiency Python and SQL                          | Get AWS Solution Architect Certificate           | Start contributing to projects                | Acquire AWS Speciality                       | Give back to community                       |
+| Software development           | Cloud Technology               | Proficiency in HTML, CSS and Javascript            | Build a capstone project (Holberton)            | Write technical blogs                        | Start mentoring people                      | Keep up with the latest tech trend           |
+| Continuous learning           | UI/Product Design              | Get AWS Cloud Practioner Certificate               | Learn MERN stack                                | Attend over 10 meetups                       | Contribute to a key project development    | Combine Design and Tech background to launch a MVP |
+| Computational Design          | AR/VR Applications             | Learn Figma for capstone project                   | Get software developer offers                  | Connect with 100 professionals               |                                               | Find a group of like-minded people          |
+| Connecting with like-minded people | Software Design and Architecture | Apply for Intern & Graduate programs               | Deploy my portfolio website                     |                                                |                                               |                                                |
+
+
 <hr>
 
