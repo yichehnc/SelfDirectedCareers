@@ -27,7 +27,14 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 
 ### Eche
 
-<hr>
+
+| Passions                                   | Interests                               | 3 Months                                     | 6 Months                                              | 1 Year                                            | 2 Years                                                  | 5 Years                                           |
+|:----------------------------------------|:-------------------------------------|:--------------------------------------------|:------------------------------------------------------|:--------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|
+| Understanding how things fit together   | Data Engineering                       | Proficiency in Python                         | Be able to go from idea to MVP                          | Enrol in a Cybersecurity course                    | Get involved with a team or teams building Applications | Understand what makes for software solution success |
+| Supporting people to learn and grow      | Machine Learning and AI                | Proficiency in SQL                            | Get a software development job                          | Start mentoring others                             | Mentor others                                           | Invest in software companies                        |
+| Software Development                    | Software Design and Architecture      | Proficiency in HTML, CSS and Javascript       | Graduate from Holberton                                | Start contributing to projects                     |                                                          | Mentor others                                       |
+| Investing                               | Data Visualization                     | Read at least one book on Software Design     | Start a personal website building interactive games  | Enrol in a Cybersecurity course                    |                                                          |                                                     |
+
 
 ### Tingru
 
